@@ -20,26 +20,6 @@
 
 ---
 
-### 🎮 Fun Games in My Profile
-
-#### 🐍 **Snake Game**
-Watch the snake eat dots and grow! (Inspired by the classic game)
-![Snake Game](https://github.com/technologyhell/technologyhell/blob/output/github-contribution-grid-snake.svg)
-
-#### 🐉 **Dragon Jumper**
-Dodge obstacles and keep the dragon flying! *(Coming soon!)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
-
----
 
 ### 💻 Tech Stack
 
@@ -63,13 +43,6 @@ Dodge obstacles and keep the dragon flying! *(Coming soon!)*
 
 - **LinkedIn**: [My Profile](https://linkedin.com/in/kamesh-s-b71359271)
 - **GitHub**: [GitHub Profile](https://github.com/technologyhell)
-
----
-
-### 🚀 Projects to Explore
-Stay tuned for:
-- **Dragon Jumper Game** *(Coming Soon!)*
-- Innovative and engaging coding projects in Python, Java, and Fullstack Development
 
 ---
 
