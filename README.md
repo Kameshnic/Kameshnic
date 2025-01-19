@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&width=435&lines=Fullstack+Developer;Machine+Learning+Enthusiast;Open+to+Collaboration;Passionate+Learner" alt="Typing SVG" />
 </p>
 
-[![HitCount](http://hits.dwyl.com/amrrs/amrrs.svg)](http://hits.dwyl.com/amrrs/amrrs) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrrs)
 
 ---
 
